@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="RestAssuredAPI" />
         <module name="Streams" />
+        <module name="RestAssure" />
       </profile>
     </annotationProcessing>
   </component>
