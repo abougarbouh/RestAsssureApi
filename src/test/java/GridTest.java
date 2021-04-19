@@ -24,13 +24,6 @@ public class GridTest {
         WebDriver driver = new RemoteWebDriver(new URL("http://192.168.1.8:4444/wd/hub"),dc);
 
         driver.navigate().to("https://www.google.com/");
-        //ahmed is here
-        //hello
-// he
-        System.out.println("devolpe branch");
-        System.out.println("develp branch2");
-
-
 
     }
 }
